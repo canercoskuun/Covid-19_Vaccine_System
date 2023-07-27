@@ -66,40 +66,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VaccineDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VaccineDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="VaccineDataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VaccineDataSet1.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="VaccineDataSet2.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VaccineDataSet2.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="VaccineDataSet3.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VaccineDataSet3.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="VaccineDataSet4.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VaccineDataSet4.xsd</DependentUpon>
-    </Compile>
     <Compile Include="VaccineDataSet5.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>VaccineDataSet5.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="VaccineDataSet6.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>VaccineDataSet6.xsd</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -128,61 +98,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="VaccineDataSet.xsc">
-      <DependentUpon>VaccineDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>VaccineDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="VaccineDataSet.xss">
-      <DependentUpon>VaccineDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet1.xsc">
-      <DependentUpon>VaccineDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>VaccineDataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="VaccineDataSet1.xss">
-      <DependentUpon>VaccineDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet2.xsc">
-      <DependentUpon>VaccineDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet2.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>VaccineDataSet2.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="VaccineDataSet2.xss">
-      <DependentUpon>VaccineDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet3.xsc">
-      <DependentUpon>VaccineDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet3.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>VaccineDataSet3.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="VaccineDataSet3.xss">
-      <DependentUpon>VaccineDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet4.xsc">
-      <DependentUpon>VaccineDataSet4.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet4.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>VaccineDataSet4.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="VaccineDataSet4.xss">
-      <DependentUpon>VaccineDataSet4.xsd</DependentUpon>
-    </None>
     <None Include="VaccineDataSet5.xsc">
       <DependentUpon>VaccineDataSet5.xsd</DependentUpon>
     </None>
@@ -193,17 +108,6 @@
     </None>
     <None Include="VaccineDataSet5.xss">
       <DependentUpon>VaccineDataSet5.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet6.xsc">
-      <DependentUpon>VaccineDataSet6.xsd</DependentUpon>
-    </None>
-    <None Include="VaccineDataSet6.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>VaccineDataSet6.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="VaccineDataSet6.xss">
-      <DependentUpon>VaccineDataSet6.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
